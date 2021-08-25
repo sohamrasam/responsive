@@ -145,7 +145,7 @@ nav .logo{
         transition: all .5s;
     }
     .nav-media ul li{
-        margin: 10px 20px;
+        margin: 10px 23px;
     }
     #check:checked ~ .navbar ul{
         left: 0;
